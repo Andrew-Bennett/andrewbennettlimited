@@ -27,6 +27,6 @@ title: Home
 	<li>C#</li>
 	<li>SQL</li>
 	<li>Azure DevOps</li>
-	<li>Agile Methodology</li>
+	<li>Agile Methodologies</li>
 	<li>TDD & Continuous Integration</li>
 </ul>
