@@ -1,8 +1,10 @@
 ---
-title: About
 layout: page
+title: About
 ---
+
 ![Profile Image]({{ site.url }}/{{ site.picture }})
+<img style="border-radius:200px" src="{{ site.url }}/{{ site.picture }}>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -44,3 +46,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
+

@@ -1,18 +1,18 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Andrew Bennett
+bio: Microsoft Azure Consultant
 
 # twitter summary info
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+#external-image: false
 picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
@@ -34,26 +34,32 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: andydrewbennett
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: andrew-bennett
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: contact@andrewbennett.limited
 
 authors:
+    andydrew:
+        name: Andrew Bennett
+        bio: Microsoft Azure Consultant
+        external-image: false
+        picture: assets/images/profile.jpg
+        twitter: andydrewbennett
     johndoe:
         name: John Doe
         bio: A Man who travels the world eating noodles
@@ -70,17 +76,17 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+about: false
 blog: true
 
 # do you want to show the "read time" of the posts?
@@ -99,7 +105,7 @@ post-advance-links: [blog]
 show-author: true
 
 # do you want some animations?
-animation: true
+animation: false
 
 plugins:
   - jekyll-seo-tag
