@@ -8,7 +8,7 @@ title: Home
 
 <br/>
 
-<p>An experienced consultant helping to deliver enterprise cloud computing solutions. With a focus on Azure DevOps and Security Management. Brings experience with Fortune 500 Companies and other large scale global IT projects.</p>
+<p>An experienced consultant helping to deliver enterprise cloud computing solutions. With a focus on Azure DevOps and Security Management. Brings a wealth of experience with Fortune 500 Companies and other large scale global IT projects.</p>
 
 <p>When not investigating the latest technology, can usually be found wondering the streets of a new city or out exploring the wonders of nature.</p>
 
